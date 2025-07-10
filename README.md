@@ -26,9 +26,3 @@ YelpCamp is a full-stack web application that allows users to view, create, edit
 ---
 
 
-## 🔧 Installation (Local Setup)
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/rajjpandeyy/YelpCamp.git
-   cd YelpCamp
